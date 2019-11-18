@@ -1,0 +1,213 @@
+.logo {
+    width: 20%;
+    height: 50px;
+    float: left;
+    margin-left: 80px;
+}
+.btn-outline-success {
+    margin-right: 100px;
+}
+.navbar-brand{
+    margin-left: 70px;
+}
+.background{
+    width: 87%;
+    height: 300px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.content-back{
+    float: left;
+    width: 100%;
+    height: 300px;
+    margin-top: -3px;
+    background-image: url("img/back.jpg");
+}
+.content{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.info{
+    width: 87%;
+    height: 100px;
+    background-color: black;
+    margin-left: 80px;
+    margin-top: 5px;
+}
+.codegym{
+    width: 25%;
+    height: 100px;
+    float: left;
+}
+.text{
+    float: left;
+    width: 75%;
+    height: 100px;
+    background-color: black;
+    color: aliceblue;
+}
+.text-p{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.cac-chuong-tinh-dao-tao{
+    margin-left: 36%;
+    margin-top: 30px;
+}
+.hinh-anh-hoat-dong{
+    margin-left: 38%;
+    margin-top: 30px;
+}
+.lien-he{
+    margin-left: 45%;
+    margin-top: 30px;
+}
+.CAREER-ACCELERATOR-PREMIUM{
+    width: 87%;
+    height: 200px;
+    margin-left: 80px;
+    margin-top: 40px;
+}
+.CAREER{
+    float: left;
+    width: 30%;
+    height: 200px;
+
+
+}
+.header-Career{
+    width: 100%;
+    height: 15%;
+
+}
+.text-Career{
+    width: 100%;
+    height: 85%;
+
+}
+.ACCELERATOR{
+    float: left;
+    width: 30%;
+    height: 200px;
+    margin-left: 4%;
+}
+.header-Accelerator{
+    width: 100%;
+    height: 15%;
+
+}
+.Accelerator-h{
+    margin-left: 33%;
+}
+.Premium-h{
+    margin-left: 33%;
+}
+.Career-h{
+    margin-left: 33%;
+}
+.text-A.text-P.text-C{
+    margin-left: 15px;
+    margin-top: 20px;
+}
+.buttom{
+    margin-top: 20px;
+    margin-left: 30%;
+}
+.PREMIUM{
+    float: left;
+    width: 30%;
+    height: 200px;
+    margin-left: 4%;
+}
+.header-Premium{
+    width: 100%;
+    height: 15%;
+
+}
+.text-Premium{
+    width: 100%;
+    height: 85%;
+
+}
+
+.image1{
+    width: 87%;
+    height: 200px;
+    margin-left: 80px;
+    margin-top: 40px;
+}
+.image2{
+    width: 87%;
+    height: 200px;
+    margin-left: 80px;
+    margin-top: 40px;
+}
+.img1{
+    float: left;
+    width: 30%;
+    height: 200px;
+}
+.img2{
+    float: left;
+    width: 30%;
+    height: 200px;
+    margin-left: 4%;
+}
+
+.img3{
+    float: left;
+    width: 30%;
+    height: 200px;
+    margin-left: 4%;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+
+.map-form{
+    width: 87%;
+    height: 500px;
+    margin-left: 80px;
+    margin-top: 40px;
+}
+.map{
+    float: left;
+    width: 47%;
+    height: 500px;
+}
+.form{
+    float: left;
+    width: 48%;
+    height: 500px;
+    margin-left: 5%;
+}
+
+.lien-he-tu-van{
+    margin-left: 37%;
+}
+.btn{
+    margin-left: 40%;
+}
+
+.footer{
+    width: 100%;
+    height: 200px;
+    background-color: midnightblue;
+    clear: both;
+}
+.footer1{
+    float: left;
+    width: 23%;
+    height: 200px;
+    color: aliceblue;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+
+
+
+
